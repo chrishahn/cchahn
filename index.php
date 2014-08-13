@@ -40,7 +40,7 @@
 
         <h2>Javascript Landscape Generator</h2>
         <p>I found this article on using maths to generate landscapes randomly using native JS, and loved it. I'm a big fan of computer-generated art (see: pixel art generator) so this is right up my alley.</p>
-        <p><a href="projects/landscape">DEMO</a> - <a target="_blank" href="https://github.com/chrishahn/js-landscape">GitHub</a></p>
+        <p><a href="projects/js-landscape">DEMO</a> - <a target="_blank" href="https://github.com/chrishahn/js-landscape">GitHub</a></p>
         <p>Original Article - <a href="http://www.playfuljs.com/realistic-terrain-in-130-lines/">http://www.playfuljs.com/realistic-terrain-in-130-lines/</a></p>
         <p>
             <span data-featherlight="images/landscape1.jpg"><img class='thumb' src='images/landscape1.jpg' /></a></span>
