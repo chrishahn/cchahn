@@ -70,10 +70,6 @@
         <p>NOTE: This site is meant to entertain some very immature people, and contains strong language. You've been warned.</p>
         <p><a href="projects/berniebb">DEMO</a> - <a target="_blank" href="https://github.com/chrishahn/berniebb">GitHub</a></p>
         <p>Node.js code running the API server - <a target="_blank" href="https://github.com/chrishahn/bernie-node">GitHub</a></p>
-
-        <h2>Comic Archive Reader</h2>
-        <p>I was looking for a web-based way to read large amount of comics, because... ok I don't have a non-dorky reason. Anyway this page will unzip archives on-demand and display their contents for browsing. JQuery and pretty photo are used to spice up the interface.</p>
-        <p><a href="projects/comic-archive-reader">DEMO</a> - <a target="_blank" href="https://github.com/chrishahn/comic-archive-reader">GitHub</a></p>
     </section>
     </div>
     <script src="javascripts/scale.fix.js"></script>
